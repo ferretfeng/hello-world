@@ -1,3 +1,2 @@
 # hello-world
-first repository
-Wanna be a Java programmer
+Wanna be a Java programmer. Learn how to use Git
